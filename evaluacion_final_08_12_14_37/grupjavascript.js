@@ -1,5 +1,5 @@
 
-// Se crea función para el doc crearpago.html para dar interactividad visual a la página cuando se ingresan,
+// Funcion  Se crea función para el doc crearpago.html para dar interactividad visual a la página cuando se ingresan,
 // o no se ingresan datos.
 function Validation() {
   valor1 = document.getElementById("pago").value;

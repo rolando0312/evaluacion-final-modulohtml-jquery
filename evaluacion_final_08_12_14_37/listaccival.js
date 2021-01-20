@@ -1,4 +1,4 @@
-// Se crea función JQuery para validar el formulario listadoaccidente. 
+// Se crea función para JQuery para validar el formulario listadoaccidente. 
 $(function () {
     $("#bEnviar").on("click", function(){
         $("#listacci").validate
